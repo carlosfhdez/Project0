@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3E2723</color>
+    <color name="colorPrimaryDark">#050505</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="colorAccentD">#a01308</color>
+    <color name="colorBackground">#ECEFF1</color>
+    <color name="colorButtons">#00E676</color>
+    <color name="colorButtonsD">#00d16c</color>
+    <color name="colorText">#3E2723</color>
+    <color name="capstoneText">#FFFFFF</color>
+</resources>
